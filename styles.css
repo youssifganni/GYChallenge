@@ -139,3 +139,15 @@ a {
         text-align: center;
     }
 }
+
+@media only screen and (max-width: 401px) {
+    .testimonials h1 {
+        font-size: 0.9rem;
+    }
+}
+
+@media only screen and (max-width: 308px) {
+    .testimonials h1 {
+        font-size: 0.8rem;
+    }
+}
