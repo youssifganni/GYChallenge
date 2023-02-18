@@ -140,14 +140,26 @@ a {
     }
 }
 
-@media only screen and (max-width: 401px) {
+@media only screen and (max-width: 410px) {
     .testimonials h1 {
         font-size: 0.9rem;
     }
 }
 
-@media only screen and (max-width: 308px) {
+@media only screen and (max-width: 320px) {
     .testimonials h1 {
         font-size: 0.8rem;
+    }
+}
+
+@media only screen and (max-width: 280px) {
+    .testimonials h1 {
+        font-size: 0.7rem;
+    }
+}
+
+@media only screen and (max-width: 240px) {
+    .testimonials h1 {
+        font-size: 0.6rem;
     }
 }
