@@ -117,15 +117,15 @@ a {
     }
 }
 
-@media only screen and (max-width: 690px) {
+@media only screen and (max-width: 760px) {
     .testimonials h1 {
         font-size: 1.1rem;
     }
 }
 
-@media only screen and (max-width: 456px) {
+@media only screen and (max-width: 575px) {
     .nav li {
-        margin-right: -1rem;
+        margin-right: -0.9rem;
     }
 }
 
@@ -140,9 +140,9 @@ a {
     }
 }
 
-@media only screen and (max-width: 410px) {
-    .testimonials h1 {
-        font-size: 0.9rem;
+@media only screen and (max-width: 475px) {
+    .testimonials h1, p {
+        font-size: 0.8rem;
     }
 }
 
